@@ -1,0 +1,26 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@400&display=swap');
+
+:root{
+    --textColor: #DDDDDD;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#torontoTime {
+    font-family: 'Assistant';
+    font-size: 120px;
+    color: var(--textColor);
+    font-weight: bold;
+}
+
+#londonTime {
+    font-family: 'Assistant';
+    font-size: 120px;
+    color: var(--textColor);
+    font-weight: bold;
+}
